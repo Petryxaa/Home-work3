@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+font-size: 0;
+}
+
+
+div{
+    font-size: 16px;
+}
+.orang1{
+    height: 100px;
+    background:orangered;
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+.box-red{
+width:380px ;
+   height: 200px;
+  background: red;
+ display: inline-block;
+
+    
+}
+.box-green{
+    height:  200px;
+   width: 380px;
+    background:green;
+    display: inline-block;
+
+
+
+
+  
+}
+.box-blue{
+    height: 200px;
+   width: 380px;
+    background:blue;
+    display: inline-block;
+}
+.box-black{
+    height: 200px;
+    width: 380px;
+    background:black;
+    display: inline-block;
+    
+
+}
+.orang2{
+    height: 100px;
+    background: orangered;
+    float: inline-end;
+}
